@@ -1,3 +1,5 @@
+package creatingclasses;
+
 import creatingclasses.Animal;
 import creatingclasses.Person;
 
